@@ -12,8 +12,8 @@
   | | |C|
   | | |*D以降も<br>解けるように<br>なりたい*|
 
-- **現在のRating**
-  ![Rating](AtCoder_Rating/20220108.png)
+- **現在のRating**<br>
+  ![Rating](AtCoder_Rating/20220108.png)<br>
   まずは茶色を目指そう
 
 ## AtCoder Beginners Selection
