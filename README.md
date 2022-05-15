@@ -14,7 +14,7 @@
   | | |*D以降も<br>解けるように<br>なりたい*|
 
 - **現在のRating**<br>
-  ![Rating](AtCoder_Rating/2022-04-10.png)<br>
+  ![Rating](AtCoder_Rating/2022-05-15.png)<br>
   まずは茶色を目指そう
 
 ## AtCoder_Beginners_Selection
