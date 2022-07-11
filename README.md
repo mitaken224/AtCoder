@@ -14,8 +14,8 @@
   | | |*D以降も<br>解けるように<br>なりたい*|
 
 - **現在のRating**<br>
-  ![Rating](AtCoder_Rating/2022-06-11.png)<br>
-  まずは茶色を目指そう
+  ![Rating](AtCoder_Rating/2022-06-25.png)<br>
+  次は緑だ
 
 ## AtCoder_Beginners_Selection
 - 初心者向け問題集<br>AtCoder Beginners Selection(https://atcoder.jp/contests/abs)<br>の回答コードです
