@@ -10,11 +10,14 @@ W, S = zip(*zip_list)
 
 f_x = S.count("0")
 max = f_x
+
 d_S = deque(S)
 d_W = deque(W)
+
 for i in range(len(d_S)):
     pop_S = d_S.pop()
     pop_W = d_W.pop()
+
     if pop_S == "1":
         f_x += 1
     elif pop_S == "0":
